@@ -1,2 +1,2 @@
-# Prepcourse-henry
-Este es un repositorio de prueba del PrepCourse de Henry
+Francisco Campos
+Este proyecto es una prueba para el PrepCourse de Henry
